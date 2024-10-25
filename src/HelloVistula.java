@@ -3,5 +3,3 @@ public class HelloVistula {
         System.out.println("Hello Vistula");
     }
 }
-
-//Added comment to showcase commit functionality of git.
